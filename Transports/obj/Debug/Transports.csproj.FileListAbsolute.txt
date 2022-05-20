@@ -1,0 +1,7 @@
+C:\Users\moham\source\repos\Transports\Transports\bin\Debug\Transports.exe.config
+C:\Users\moham\source\repos\Transports\Transports\bin\Debug\Transports.exe
+C:\Users\moham\source\repos\Transports\Transports\bin\Debug\Transports.pdb
+C:\Users\moham\source\repos\Transports\Transports\obj\Debug\Transports.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\Transports\Transports\obj\Debug\Transports.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\Transports\Transports\obj\Debug\Transports.exe
+C:\Users\moham\source\repos\Transports\Transports\obj\Debug\Transports.pdb
